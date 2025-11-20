@@ -3,7 +3,7 @@ using System.Windows;
 using Microsoft.Extensions.Configuration;
 using System.IO;
 
-namespace WpfDemoTemplate
+namespace WPF_Episode11_Viewbox
 {
     /// <summary>
     /// Partial class for handling screen position

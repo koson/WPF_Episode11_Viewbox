@@ -1,6 +1,8 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
+    <RootNamespace>WPF_Episode11_Viewbox</RootNamespace>
+    <AssemblyName>WPF_Episode11_Viewbox</AssemblyName>
     <OutputType>WinExe</OutputType>
     <TargetFramework>net9.0-windows</TargetFramework>
     <Nullable>enable</Nullable>

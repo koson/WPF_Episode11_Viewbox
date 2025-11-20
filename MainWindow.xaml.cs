@@ -1,6 +1,6 @@
 using System.Windows;
 
-namespace WpfDemoTemplate
+namespace WPF_Episode11_Viewbox
 {
     public partial class MainWindow : Window
     {
